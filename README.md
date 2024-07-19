@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Xiejiahang1
+- 👋 Hi, I’m 谢佳航
 - 👀 I’m interested in game
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on studing
 - 📫 How to reach me xjh18736615258
-- 😄 Pronouns:
+- 😄 Pronouns:happy
 - ⚡ Fun fact:
 
 <!---
