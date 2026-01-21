@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 谢佳航
+- 👋 Hi, I’m jiahang xie
 - 👀 I’m interested in game
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on studing
